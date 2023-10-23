@@ -1,0 +1,64 @@
+{
+  "name": "@folio/stripes-marc-components",
+  "version": "1.0.0",
+  "description": "Component library for Stripes Marc modules",
+  "repository": "https://github.com/folio-org/stripes-marc-components",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "stripes": {
+    "actsAs": [
+      ""
+    ],
+    "okapiInterfaces": {
+    }
+  },
+  "scripts": {
+    "start": "stripes serve",
+    "build": "stripes build --output ./output",
+    "test": "jest --coverage --verbose",
+    "test:color": "jest --coverage --verbose --color",
+    "lint": "eslint .",
+    "lint:report": "eslint --output-file ./artifacts/eslint_report.json --format json .",
+    "formatjs-compile": "formatjs compile-folder --ast --format simple ./translations/stripes-marc-components ./translations/stripes-marc-components/compiled",
+    "build-mod-descriptor": "stripes mod descriptor --full --strict | jq '.[]' > module-descriptor.json"
+  },
+  "devDependencies": {
+    "@folio/eslint-config-stripes": "^7.0.0",
+    "@folio/jest-config-stripes": "^2.0.0",
+    "@folio/stripes": "^9.0.1",
+    "@folio/stripes-cli": "^3.0.0",
+    "@folio/stripes-components": "^12.0.2",
+    "@folio/stripes-core": "^10.0.0",
+    "@folio/stripes-testing": "^4.6.1",
+    "@formatjs/cli": "^6.2.1",
+    "axe-core": "^4.1.4",
+    "core-js": "^3.6.1",
+    "eslint-plugin-jest": "^24.3.5",
+    "history": "^5.0.0",
+    "identity-obj-proxy": "^3.0.0",
+    "inflected": "^2.0.4",
+    "lodash": "^4.17.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-intl": "^6.4.4",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-query": "^3.39.3",
+    "regenerator-runtime": "^0.13.3"
+  },
+  "dependencies": {
+    "@folio/stripes-acq-components": "^5.0.0",
+    "classnames": "^2.3.2",
+    "prop-types": "^15.6.0",
+    "query-string": "^7.0.1",
+    "react-query": "^3.39.3"
+  },
+  "peerDependencies": {
+    "@folio/stripes": "^9.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-intl": "^6.4.4",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0"
+  }
+}
