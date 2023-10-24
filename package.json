@@ -31,7 +31,6 @@
     "@folio/stripes-core": "^10.0.0",
     "@folio/stripes-testing": "^4.6.1",
     "@formatjs/cli": "^6.2.1",
-    "axe-core": "^4.1.4",
     "core-js": "^3.6.1",
     "eslint-plugin-jest": "^24.3.5",
     "history": "^5.0.0",
@@ -47,7 +46,6 @@
     "regenerator-runtime": "^0.13.3"
   },
   "dependencies": {
-    "@folio/stripes-acq-components": "^5.0.0",
     "classnames": "^2.3.2",
     "prop-types": "^15.6.0",
     "query-string": "^7.0.1",
