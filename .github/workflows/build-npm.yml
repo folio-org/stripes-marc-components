@@ -11,15 +11,7 @@
 #   - COMPILE_TRANSLATION_FILES (boolean 'true' or 'false')
 
 name: buildNPM Snapshot
-on:
-  push:
-    paths-ignore:
-      - "**/*.[mM][dD]"
-      - "**/*.[tT][xX][tT]"
-  pull_request:
-    paths-ignore:
-      - "**/*.[mM][dD]"
-      - "**/*.[tT][xX][tT]"
+on: [push, pull_request]
 
 jobs:
   github-actions-ci:
