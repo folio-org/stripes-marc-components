@@ -1,6 +1,6 @@
 # Change history for stripes-marc-components
 
-## [1.0.1] (IN PROGRESS)
+## [1.0.1] (https://github.com/folio-org/stripes-marc-components/tree/v1.0.1) (2024-04-16)
 
 - [UISMRCCOMP-10](https://issues.folio.org/browse/UISMRCCOMP-10) MarcView - do not re-order 00X fields to be shown first.
 
