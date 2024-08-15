@@ -3,6 +3,7 @@
 ## IN PROGRESS
 
 - [UISMRCCOMP-14](https://issues.folio.org/browse/UISMRCCOMP-14) Provide the `firstMenu` property for the `MarcView` component.
+- [UISMRCCOMP-15](https://issues.folio.org/browse/UISMRCCOMP-15) Provide the `actionMenu` property for the `MarcView` component.
 
 ## [1.0.1] (https://github.com/folio-org/stripes-marc-components/tree/v1.0.1) (2024-04-16)
 
