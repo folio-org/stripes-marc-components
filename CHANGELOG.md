@@ -1,6 +1,6 @@
 # Change history for stripes-marc-components
 
-## [1.1.0] (IN PROGRESS)
+## [1.1.0] (https://github.com/folio-org/stripes-marc-components/tree/v1.1.0) (2024-10-31)
 
 - [UISMRCCOMP-14](https://issues.folio.org/browse/UISMRCCOMP-14) Provide the `firstMenu` property for the `MarcView` component.
 - [UISMRCCOMP-15](https://issues.folio.org/browse/UISMRCCOMP-15) Provide the `actionMenu` property for the `MarcView` component.
