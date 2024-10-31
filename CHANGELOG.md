@@ -1,9 +1,10 @@
 # Change history for stripes-marc-components
 
-## IN PROGRESS
+## [1.1.0] (IN PROGRESS)
 
 - [UISMRCCOMP-14](https://issues.folio.org/browse/UISMRCCOMP-14) Provide the `firstMenu` property for the `MarcView` component.
 - [UISMRCCOMP-15](https://issues.folio.org/browse/UISMRCCOMP-15) Provide the `actionMenu` property for the `MarcView` component.
+- [UISMRCCOMP-17](https://issues.folio.org/browse/UISMRCCOMP-17) Migrate to shared UI workflows.
 
 ## [1.0.1] (https://github.com/folio-org/stripes-marc-components/tree/v1.0.1) (2024-04-16)
 
