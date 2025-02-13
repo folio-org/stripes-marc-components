@@ -1,5 +1,11 @@
 # Change history for stripes-marc-components
 
+## [2.0.0] (IN PROGRESS)
+
+- [UISMRCCOMP-19](https://issues.folio.org/browse/UISMRCCOMP-19) *BREAKING* migrate stripes dependencies to their Sunflower versions.
+- [UISMRCCOMP-20](https://issues.folio.org/browse/UISMRCCOMP-20) *BREAKING* migrate react-intl to v7.
+
+
 ## [1.1.0] (https://github.com/folio-org/stripes-marc-components/tree/v1.1.0) (2024-10-31)
 
 - [UISMRCCOMP-14](https://issues.folio.org/browse/UISMRCCOMP-14) Provide the `firstMenu` property for the `MarcView` component.
