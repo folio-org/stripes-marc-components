@@ -83,7 +83,7 @@ jest.mock('@folio/stripes/core', () => {
     return <Component {...rest} stripes={fakeStripes} />;
   };
 
-  const useStripes = () => STRIPES;
+  const useStripes = jest.fn(() => STRIPES);
 
   // eslint-disable-next-line react/prop-types
   const IfPermission = ({ children }) => <>{children}</>;
