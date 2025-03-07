@@ -6,12 +6,19 @@ jest.mock('react-intl', () => {
 
   return {
     ...jest.requireActual('react-intl'),
-    FormattedMessage: jest.fn(({ id, children }) => {
+    FormattedMessage: jest.fn(({ id, children, values }) => {
       if (children) {
         return children([id]);
       }
 
-      return id;
+      return (
+        <>
+          {id}
+          {values && Object.entries(values).map(([key, value]) => (
+            <span key={key}>{value}</span>
+          ))}
+        </>
+      );
     }),
     FormattedTime: jest.fn(({ value, children }) => {
       if (children) {
