@@ -7,6 +7,7 @@
 - [UISMRCCOMP-23](https://issues.folio.org/browse/UISMRCCOMP-23) Add a `wrapperClass` prop to `<MarcView>` component
 - [UISMRCCOMP-13](https://issues.folio.org/browse/UISMRCCOMP-13) React v19: refactor away from default props for functional components.
 - [UISMRCCOMP-26](https://issues.folio.org/browse/UISMRCCOMP-26) *BREAKING* Added `<MarcVersionHistory>` and `useMarcAuditDataQuery`.
+- [UISMRCCOMP-27](https://issues.folio.org/browse/UISMRCCOMP-27) Pass `showUserLink` prop for `AuditLogPane`.
 
 ## [1.1.0] (https://github.com/folio-org/stripes-marc-components/tree/v1.1.0) (2024-10-31)
 
