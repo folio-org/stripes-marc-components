@@ -1,3 +1,8 @@
 {
-    "meta.title": "MARC 紀錄"
+    "meta.title": "MARC 紀錄",
+    "versionHistory.action.added": "Added",
+    "versionHistory.action.edited": "Edited",
+    "versionHistory.action.removed": "Removed",
+    "versionHistory.anonymousUser": "Anonymous user",
+    "versionHistory.fieldPrefix": "Field {field}"
 }

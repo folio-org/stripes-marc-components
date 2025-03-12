@@ -1,3 +1,8 @@
 {
-    "meta.title": "MARC-Datensätze"
+    "meta.title": "MARC-Datensätze",
+    "versionHistory.action.added": "Added",
+    "versionHistory.action.edited": "Edited",
+    "versionHistory.action.removed": "Removed",
+    "versionHistory.anonymousUser": "Anonymous user",
+    "versionHistory.fieldPrefix": "Field {field}"
 }
