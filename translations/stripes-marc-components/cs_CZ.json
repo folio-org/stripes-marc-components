@@ -1,3 +1,8 @@
 {
-    "meta.title": "MARC záznamy"
+    "meta.title": "MARC záznamy",
+    "versionHistory.action.added": "Přidáno",
+    "versionHistory.action.edited": "Upraveno",
+    "versionHistory.action.removed": "Odstraněno",
+    "versionHistory.anonymousUser": "Anonymní uživatel",
+    "versionHistory.fieldPrefix": "Pole {field}"
 }

@@ -1,3 +1,8 @@
 {
-    "meta.title": "Registros MARC"
+    "meta.title": "Registros MARC",
+    "versionHistory.action.added": "Adicionado",
+    "versionHistory.action.edited": "Editado",
+    "versionHistory.action.removed": "Removido",
+    "versionHistory.anonymousUser": "Usuário anônimo",
+    "versionHistory.fieldPrefix": "Campo {field}"
 }

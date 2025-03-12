@@ -1,3 +1,8 @@
 {
-    "meta.title": "MARC-records"
+    "meta.title": "MARC-records",
+    "versionHistory.action.added": "Toegevoegd",
+    "versionHistory.action.edited": "Bewerkt",
+    "versionHistory.action.removed": "Verwijderd",
+    "versionHistory.anonymousUser": "Anonieme gebruiker",
+    "versionHistory.fieldPrefix": "Veld {field}"
 }
