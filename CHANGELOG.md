@@ -1,5 +1,9 @@
 # Change history for stripes-marc-components
 
+## [2.1.0] (IN PROGRESS)
+
+- [UISMRCCOMP-30](https://issues.folio.org/browse/UISMRCCOMP-30) MarcView - accept a new `paneProps` prop.
+
 ## [2.0.0] (https://github.com/folio-org/stripes-marc-components/tree/v2.0.0) (2025-03-13)
 
 - [UISMRCCOMP-19](https://issues.folio.org/browse/UISMRCCOMP-19) *BREAKING* migrate stripes dependencies to their Sunflower versions.
