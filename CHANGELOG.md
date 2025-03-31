@@ -3,11 +3,8 @@
 ## [2.1.0] (IN PROGRESS)
 
 - [UISMRCCOMP-30](https://issues.folio.org/browse/UISMRCCOMP-30) MarcView - accept a new `paneProps` prop.
-- [UISMRCCOMP-32](https://issues.folio.org/browse/UISMRCCOMP-32) Use central tenant id in useUsersBatch to retrieve all users.
-
-## [2.0.1] (IN PROGRESS)
-
 - [UISMRCCOMP-31](https://issues.folio.org/browse/UISMRCCOMP-31) MarcVersionHistory - add a new `isSharedFromLocalRecord` prop.
+- [UISMRCCOMP-32](https://issues.folio.org/browse/UISMRCCOMP-32) Use central tenant id in useUsersBatch to retrieve all users.
 
 ## [2.0.1] (IN PROGRESS)
 
