@@ -4,6 +4,10 @@
 
 - [UISMRCCOMP-30](https://issues.folio.org/browse/UISMRCCOMP-30) MarcView - accept a new `paneProps` prop.
 
+## [2.0.1] (IN PROGRESS)
+
+- [UISMRCCOMP-31](https://issues.folio.org/browse/UISMRCCOMP-31) MarcVersionHistory - add a new `isSharedFromLocalRecord` prop.
+
 ## [2.0.0] (https://github.com/folio-org/stripes-marc-components/tree/v2.0.0) (2025-03-13)
 
 - [UISMRCCOMP-19](https://issues.folio.org/browse/UISMRCCOMP-19) *BREAKING* migrate stripes dependencies to their Sunflower versions.
