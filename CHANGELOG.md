@@ -1,15 +1,11 @@
 # Change history for stripes-marc-components
 
-## [2.1.0] (IN PROGRESS)
+## [2.0.1] (https://github.com/folio-org/stripes-marc-components/tree/v2.0.1) (2025-04-11)
 
 - [UISMRCCOMP-30](https://issues.folio.org/browse/UISMRCCOMP-30) MarcView - accept a new `paneProps` prop.
 - [UISMRCCOMP-31](https://issues.folio.org/browse/UISMRCCOMP-31) MarcVersionHistory - add a new `isSharedFromLocalRecord` prop.
 - [UISMRCCOMP-32](https://issues.folio.org/browse/UISMRCCOMP-32) Use central tenant id in useUsersBatch to retrieve all users.
 - [UISMRCCOMP-29](https://issues.folio.org/browse/UISMRCCOMP-29) Add loading indicator to MARC version history panes.
-
-## [2.0.1] (IN PROGRESS)
-
-- [UISMRCCOMP-31](https://issues.folio.org/browse/UISMRCCOMP-31) MarcVersionHistory - add a new `isSharedFromLocalRecord` prop.
 
 ## [2.0.0] (https://github.com/folio-org/stripes-marc-components/tree/v2.0.0) (2025-03-13)
 
