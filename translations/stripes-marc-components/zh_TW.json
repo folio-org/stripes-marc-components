@@ -1,8 +1,8 @@
 {
     "meta.title": "MARC 紀錄",
-    "versionHistory.action.added": "Added",
-    "versionHistory.action.edited": "Edited",
-    "versionHistory.action.removed": "Removed",
-    "versionHistory.anonymousUser": "Anonymous user",
-    "versionHistory.fieldPrefix": "Field {field}"
+    "versionHistory.action.added": "已增加",
+    "versionHistory.action.edited": "已編輯",
+    "versionHistory.action.removed": "已移除",
+    "versionHistory.anonymousUser": "匿名使用者",
+    "versionHistory.fieldPrefix": "欄位 {field}"
 }
