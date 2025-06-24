@@ -2,7 +2,7 @@
     "meta.title": "MARC records",
     "versionHistory.action.added": "Додано",
     "versionHistory.action.edited": "Відредаговано",
-    "versionHistory.action.removed": "Видалено",
+    "versionHistory.action.removed": "Вилучено",
     "versionHistory.anonymousUser": "Анонімний користувач",
     "versionHistory.fieldPrefix": "Поле {field}"
 }
