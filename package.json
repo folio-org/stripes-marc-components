@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-marc-components",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Component library for Stripes Marc modules",
   "repository": "https://github.com/folio-org/stripes-marc-components",
   "main": "index.js",

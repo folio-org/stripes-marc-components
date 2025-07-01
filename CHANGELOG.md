@@ -1,6 +1,6 @@
 # Change history for stripes-marc-components
 
-## [2.1.0] (IN PROGRESS)
+## [2.0.2](https://github.com/folio-org/stripes-marc-components/tree/v2.0.2) (2025-07-01)
 
 - [UISMRCCOMP-34](https://issues.folio.org/browse/UISMRCCOMP-34) Use Central tenant linking rules when user editing Shared MARC bib from Central or Member tenant.
 
