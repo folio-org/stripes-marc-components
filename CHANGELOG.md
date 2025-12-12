@@ -3,6 +3,7 @@
 ## [2.1.0] (IN PROGRESS)
 
 - [UISMRCCOMP-34](https://issues.folio.org/browse/UISMRCCOMP-34) Use Central tenant linking rules when user editing Shared MARC bib from Central or Member tenant.
+- [UISMRCCOMP-38](https://issues.folio.org/browse/UISMRCCOMP-38) Make `instance-authority-linking-rules` interface optional.
 
 ## [2.0.1] (https://github.com/folio-org/stripes-marc-components/tree/v2.0.1) (2025-04-11)
 
