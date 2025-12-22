@@ -10,8 +10,10 @@
       ""
     ],
     "okapiInterfaces": {
-      "instance-authority-linking-rules": "1.1",
       "audit-marc": "1.0"
+    },
+    "optionalOkapiInterfaces": {
+      "instance-authority-linking-rules": "1.1"
     }
   },
   "scripts": {
