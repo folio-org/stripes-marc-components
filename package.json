@@ -9,11 +9,9 @@
     "actsAs": [
       ""
     ],
-    "okapiInterfaces": {
-      "audit-marc": "1.0"
-    },
     "optionalOkapiInterfaces": {
-      "instance-authority-linking-rules": "1.1"
+      "instance-authority-linking-rules": "1.1",
+      "audit-marc": "1.0"
     }
   },
   "scripts": {
