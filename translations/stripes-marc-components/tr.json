@@ -1,8 +1,8 @@
 {
-    "meta.title": "MARC records",
-    "versionHistory.action.added": "Added",
-    "versionHistory.action.edited": "Edited",
-    "versionHistory.action.removed": "Removed",
-    "versionHistory.anonymousUser": "Anonymous user",
-    "versionHistory.fieldPrefix": "Field {field}"
+    "meta.title": "MARC kayıtları",
+    "versionHistory.action.added": "Ekle",
+    "versionHistory.action.edited": "Baskılı",
+    "versionHistory.action.removed": "Kaldırıldı",
+    "versionHistory.anonymousUser": "Anonim kullanıcı",
+    "versionHistory.fieldPrefix": "Saha {field}"
 }
