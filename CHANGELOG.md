@@ -1,11 +1,18 @@
 # Change history for stripes-marc-components
 
+
 ## [2.1.0] (IN PROGRESS)
 
-- [UISMRCCOMP-34](https://issues.folio.org/browse/UISMRCCOMP-34) Use Central tenant linking rules when user editing Shared MARC bib from Central or Member tenant.
 - [UISMRCCOMP-38](https://issues.folio.org/browse/UISMRCCOMP-38) Make `instance-authority-linking-rules` interface optional.
 - [UISMRCCOMP-39](https://issues.folio.org/browse/UISMRCCOMP-39) Handle `audit-marc` dependency: hide audit button.
+
+## [2.0.3] (https://github.com/folio-org/stripes-marc-components/tree/v2.0.3) (2026-04-20)
+
 - [UISMRCCOMP-41](https://issues.folio.org/browse/UISMRCCOMP-41) Remove usage of `useVersionHistory` hook because it accumulates version history data, resulting in duplicate cards.
+
+## [2.0.2] (https://github.com/folio-org/stripes-marc-components/tree/v2.0.2) (2025-07-01)
+
+- [UISMRCCOMP-34](https://issues.folio.org/browse/UISMRCCOMP-34) Use Central tenant linking rules when user editing Shared MARC bib from Central or Member tenant.
 
 ## [2.0.1] (https://github.com/folio-org/stripes-marc-components/tree/v2.0.1) (2025-04-11)
 
