@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-marc-components",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Component library for Stripes Marc modules",
   "repository": "https://github.com/folio-org/stripes-marc-components",
   "main": "index.js",
@@ -30,7 +30,6 @@
     "@folio/stripes": "^10.0.0",
     "@folio/stripes-cli": "^4.0.0",
     "@folio/stripes-components": "^13.0.0",
-    "@folio/stripes-core": "^11.0.0",
     "@folio/stripes-testing": "^5.0.0",
     "core-js": "^3.6.1",
     "eslint-plugin-jest": "^24.3.5",
