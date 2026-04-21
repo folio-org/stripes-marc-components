@@ -1,7 +1,6 @@
 # Change history for stripes-marc-components
 
-
-## [2.1.0] (IN PROGRESS)
+## [2.1.0] (https://github.com/folio-org/stripes-marc-components/tree/v2.1.0) (2026-04-17)
 
 - [UISMRCCOMP-38](https://issues.folio.org/browse/UISMRCCOMP-38) Make `instance-authority-linking-rules` interface optional.
 - [UISMRCCOMP-39](https://issues.folio.org/browse/UISMRCCOMP-39) Handle `audit-marc` dependency: hide audit button.
