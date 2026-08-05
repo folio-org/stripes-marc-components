@@ -1,5 +1,9 @@
 # Change history for stripes-marc-components
 
+## [2.2.0] (IN PROGRESS)
+
+- [UISMRCCOMP-45](https://issues.folio.org/browse/UISMRCCOMP-38) Do not get the list of users only by central tenant id.
+
 ## [2.1.0] (https://github.com/folio-org/stripes-marc-components/tree/v2.1.0) (2026-04-17)
 
 - [UISMRCCOMP-34](https://issues.folio.org/browse/UISMRCCOMP-34) Use Central tenant linking rules when user editing Shared MARC bib from Central or Member tenant.
