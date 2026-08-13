@@ -1,8 +1,8 @@
 # Change history for stripes-marc-components
 
-## [2.2.0] (IN PROGRESS)
+## [2.1.1] (https://github.com/folio-org/stripes-marc-components/tree/v2.1.1) (2026-08-13)
 
-- [UISMRCCOMP-45](https://issues.folio.org/browse/UISMRCCOMP-38) Do not get the list of users only by central tenant id.
+- [UISMRCCOMP-45](https://issues.folio.org/browse/UISMRCCOMP-45) Do not get the list of users only by central tenant id.
 
 ## [2.1.0] (https://github.com/folio-org/stripes-marc-components/tree/v2.1.0) (2026-04-17)
 
